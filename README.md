@@ -1,7 +1,7 @@
 <h1 align="center">🌑 DARKGEN_PROFILER</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-8.0-red.svg">
+  <img src="https://img.shields.io/badge/Version-1.0-red.svg">
   <img src="https://img.shields.io/badge/Language-Pure%20C-orange.svg">
   <img src="https://img.shields.io/badge/Platform-Termux%20%7C%20Kali-lightgrey.svg">
   <img src="https://img.shields.io/badge/Engine-High--Performance-blue.svg">
@@ -17,8 +17,7 @@
 
 <p align="center">
   <img src="Screenshot_20260212-210807.png" width="30%" alt="Main Menu">
-  <img src="Screenshot_20260212-210930.png
-" width="30%" alt="Profiling Screen">
+  <img src="Screenshot_20260212-210930.png" width="30%" alt="Profiling Screen">
   <img src="Screenshot_20260212-211640.png" width="30%" alt="Generation Complete">
   <img src="Screenshot_20260212-211554.png" width="30%" alt="Custom settings">
 <img src="Screenshot_20260212-210733.png" width="30%" alt="Custom profiling">
@@ -83,6 +82,18 @@ Mode Action
 Shravan Acharya
 GitHub: techpythoncode-bit
 Email: techpythoncode@gmail.com
+YOUTUBE: <p align="center">
+  <a href="https://youtube.com/@techpythoncode23?si=fL-W0Y86GmyCmrBf"                                    
+    <img src="https://img.youtube.com/vi/CHANNEL_ID/0.jpg" width="30" height="30" style="margin-right: 10px;"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="30" height="30"> Subscribe
+  </a>
+</p>
 <p align="center">
 <i>Developed for ethical security testing and research purposes only.</i>
+</p>
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZ6ZzRyeXZ6ZzRyeXZ6ZzRyeXZ6ZzRyeXZ6ZzRyeXZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKMGpxxXLyK3O9i/giphy.gif" width="150">
+
+<b>Thanks for using Darkgen! Stay Ethical.</b>
 </p>
