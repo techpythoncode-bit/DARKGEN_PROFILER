@@ -1,60 +1,70 @@
 <h1 align="center">🌑 DARKGEN_PROFILER</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-1.0-red.svg">
-  <img src="https://img.shields.io/badge/Language-C-blue.svg">
+  <img src="https://img.shields.io/badge/Version-8.0-red.svg">
+  <img src="https://img.shields.io/badge/Language-Pure%20C-orange.svg">
   <img src="https://img.shields.io/badge/Platform-Termux%20%7C%20Kali-lightgrey.svg">
-  <img src="https://img.shields.io/badge/License-MIT-green.svg">
+  <img src="https://img.shields.io/badge/Engine-High--Performance-blue.svg">
 </p>
 
-<hr>
+<p align="center">
+  <b>Darkgen Profiler</b> is a professional-grade intelligence suite designed to create personalized password lists. By leveraging target-specific data—names, dates, and habits—it generates highly probable wordlists for security researchers.
+</p>
+
+---
+
+## 📸 Screenshots
 
 <p align="center">
-  <b>Darkgen Profiler</b> is a high-performance intelligence suite designed to create personalized password lists. By utilizing target information like names, dates, and pet names, it crafts highly probable wordlists for security auditing and research.
+  <img src="1000111528.png" width="30%" alt="Main Menu">
+  <img src="1000111530.png" width="30%" alt="Profiling Screen">
+  <img src="1000111532.png" width="30%" alt="Generation Complete">
 </p>
 
 ---
 
 ## 🛠️ Key Features
-- **🎯 Target Profiling:** Advanced mutations based on personal intelligence.
-- **⚡ High Performance:** Multi-threaded engine written in pure C.
-- **🧹 FNV-1a Dedup:** Integrated hash-table to remove duplicate entries instantly.
-- **📦 GZip Compression:** Level 9 compression to save storage on massive lists.
-- **📊 Real-time Stats:** Track password composition (Alpha, Digit, Special, Length).
+* **🎯 Target Profiling:** Advanced mutations based on personal intelligence.
+* **⚡ Pure C Engine:** Built from scratch in C for maximum speed and efficiency.
+* **🧹 FNV-1a Dedup:** Integrated 32MB hash-table to remove duplicates on the fly.
+* **📦 GZip Compression:** Level 9 compression support for massive datasets.
+* **📊 Real-time Stats:** Instant breakdown of Alpha, Digit, and Special character ratios.
 
 ---
 
-## 🚀 Installation & Usage
+## 🚀 Installation & Execution
 
-### 📱 Termux (Android)
+### 📱 Termux
+Darkgen is written **purely in C**, ensuring it runs lightning-fast even on mobile hardware.
+
 ```bash
-# Update packages
-pkg update && pkg upgrade
+# Update and install dependencies
+pkg install gcc make zlib -y
 
-# Install build tools and zlib
-pkg install gcc make zlib binutils -y
+# Compile the source (The Core Engine)
+gcc drkgen.c -o drkgen -lpthread -lm -lz -O3
 
-# Compile the source
-gcc darkgen.c -o darkgen -lpthread -lm -lz -O3
-
-# Launch Darkgen
-./darkgen
+# Run the Profiler
+./drkgen
 ```
 
-#### 🐼 Kali linux/Debian
-```
-# Update system
-sudo apt update
+#### 🐧 Kali Linux/Debian
+```bash
+Kali requires build-essential for the compiler and zlib1g-dev for the header files needed during compilation.
+# Update the system repositories
+sudo apt update && sudo apt full-upgrade -y
 
-# Install build-essential and zlib headers
+# Install compilation dependencies
 sudo apt install build-essential zlib1g-dev -y
 
 # Compile the source
-gcc darkgen.c -o darkgen -lpthread -lm -lz -O3
+gcc drkgen.c -o drkgen -lpthread -lm -lz -O3
 
-# Launch Darkgen
-./darkgen
+# Grant execution permissions (if needed) and run
+chmod +x drkgen
+./drkgen
 ```
+
 
 Mode Action
 ```
