@@ -80,8 +80,11 @@ Mode Action
 
 <h4>👤 Author</h4>
 <p>Shravan Acharya
+<br>
 GitHub: techpythoncode-bit
+<br>
 Email: techpythoncode@gmail.com
+<br>
 YOUTUBE: https://youtube.com/@techpythoncode23?si=fL-W0Y86GmyCmrBf
 </p>
 </p>
@@ -90,7 +93,7 @@ YOUTUBE: https://youtube.com/@techpythoncode23?si=fL-W0Y86GmyCmrBf
 </p>
 
 <p align="center">
-<img src="https://www.freepik.com/free-photos-vectors/thank-you-gif" width="150">
+<img src="download.png" width="150">
 
 <b>Thanks for using Darkgen! Stay Ethical.</b>
 </p>
