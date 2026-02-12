@@ -16,9 +16,11 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="1000111528.png" width="30%" alt="Main Menu">
-  <img src="1000111530.png" width="30%" alt="Profiling Screen">
-  <img src="1000111532.png" width="30%" alt="Generation Complete">
+  <img src="https://ibb.co/KxMBJVCY" width="30%" alt="Main Menu">
+  <img src="https://ibb.co/HLQwyz6s" width="30%" alt="Profiling Screen">
+  <img src="https://ibb.co/TBd4Qj6K" width="30%" alt="Generation Complete">
+  <img src="https://ibb.co/Y7GjzKdh" width="30%" alt="Custom settings">
+  
 </p>
 
 ---
