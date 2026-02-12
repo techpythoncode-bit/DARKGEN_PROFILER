@@ -45,7 +45,7 @@ Darkgen is written **purely in C**, ensuring it runs lightning-fast even on mobi
 pkg install gcc make zlib -y
 
 #clone repo
-https://github.com/techpythoncode-bit/DARKGEN_PROFILER.git
+git clone https://github.com/techpythoncode-bit/DARKGEN_PROFILER.git
 
 # Compile the source (The Core Engine)
 gcc drkgen.c -o drkgen -lpthread -lm -lz -O3
@@ -61,7 +61,7 @@ Kali requires build-essential for the compiler and zlib1g-dev for the header fil
 sudo apt update && sudo apt full-upgrade -y
 
 #clone repo
-https://github.com/techpythoncode-bit/DARKGEN_PROFILER.git
+git clone https://github.com/techpythoncode-bit/DARKGEN_PROFILER.git
 
 # Install compilation dependencies
 sudo apt install build-essential zlib1g-dev -y
