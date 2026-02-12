@@ -78,12 +78,12 @@ Mode Action
 5. Mutator Import an existing list and apply Darkgen rules.
 ```
 
-👤 Author
-Shravan Acharya
+<h4>👤 Author</h4>
+<p>Shravan Acharya
 GitHub: techpythoncode-bit
 Email: techpythoncode@gmail.com
 YOUTUBE: https://youtube.com/@techpythoncode23?si=fL-W0Y86GmyCmrBf
-
+</p>
 </p>
 <p align="center">
 <i>Developed for ethical security testing and research purposes only.</i>
