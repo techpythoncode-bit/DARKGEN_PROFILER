@@ -82,18 +82,7 @@ Mode Action
 Shravan Acharya
 GitHub: techpythoncode-bit
 Email: techpythoncode@gmail.com
-<p align="center">
-  <a href="https://www.youtube.com" 
-     style="text-decoration: none; display: inline-flex; align-items: center; justify-content: center; gap: 10px;">
-    
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" 
-         alt="YouTube" width="30" height="30" style="border-radius: 50%; object-fit: cover;"> 
-    
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" 
-         alt="YouTube" width="70" height="30">
-   
-  </a>
-</p>
+YOUTUBE: https://youtube.com/@techpythoncode23?si=fL-W0Y86GmyCmrBf
 
 </p>
 <p align="center">
@@ -101,7 +90,7 @@ Email: techpythoncode@gmail.com
 </p>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZ6ZzRyeXZ6ZzRyeXZ6ZzRyeXZ6ZzRyeXZ6ZzRyeXZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKMGpxxXLyK3O9i/giphy.gif" width="150">
+<img src="https://www.freepik.com/free-photos-vectors/thank-you-gif" width="150">
 
 <b>Thanks for using Darkgen! Stay Ethical.</b>
 </p>
