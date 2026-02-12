@@ -82,11 +82,18 @@ Mode Action
 Shravan Acharya
 GitHub: techpythoncode-bit
 Email: techpythoncode@gmail.com
-YOUTUBE: <p align="center">
-  <a href="https://youtube.com/@techpythoncode23?si=fL-W0Y86GmyCmrBf"                                    
-    <img src="https://img.youtube.com/vi/CHANNEL_ID/0.jpg" width="30" height="30" style="margin-right: 10px;"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="30" height="30"> Subscribe
+<p align="center">
+  <a href="https://www.youtube.com/channel/YOUR_CHANNEL_ID?sub_confirmation=1" 
+     style="text-decoration: none; display: inline-flex; align-items: center; gap: 10px;">
+    
+    <img src="https://img.youtube.com/vi/CHANNEL_ID/0.jpg" width="30" height="30" style="border-radius: 50%;"> 
+    
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="30" height="30">
+    
+    <span style="font-family: sans-serif; font-weight: bold; color: #ff0000;">Subscribe</span>
   </a>
+</p>
+
 </p>
 <p align="center">
 <i>Developed for ethical security testing and research purposes only.</i>
