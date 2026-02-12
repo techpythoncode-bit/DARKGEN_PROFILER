@@ -1,5 +1,5 @@
 /*
- * DARK-GEN v8.0 - Password Intelligence Suite
+ * DARK-GEN v1.0 - Password Intelligence Suite
  * Author: Shravan Acharya
  */
 
