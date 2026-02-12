@@ -83,14 +83,15 @@ Shravan Acharya
 GitHub: techpythoncode-bit
 Email: techpythoncode@gmail.com
 <p align="center">
-  <a href="https://www.youtube.com/channel/YOUR_CHANNEL_ID?sub_confirmation=1" 
-     style="text-decoration: none; display: inline-flex; align-items: center; gap: 10px;">
+  <a href="https://www.youtube.com" 
+     style="text-decoration: none; display: inline-flex; align-items: center; justify-content: center; gap: 10px;">
     
-    <img src="https://www.freepik.com/free-photos-vectors/youtube-logo" width="30" height="30" style="border-radius: 50%;"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" 
+         alt="YouTube" width="30" height="30" style="border-radius: 50%; object-fit: cover;"> 
     
-    <img src="https://www.freepik.com/free-photos-vectors/youtube-logo" width="30" height="30">
-    
-    <span style="font-family: sans-serif; font-weight: bold; color: #ff0000;">Subscribe</span>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" 
+         alt="YouTube" width="70" height="30">
+   
   </a>
 </p>
 
