@@ -1,7 +1,7 @@
 <h1 align="center">🌑 DARKGEN_PROFILER</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-8.0-red.svg">
+  <img src="https://img.shields.io/badge/Version-1.0-red.svg">
   <img src="https://img.shields.io/badge/Language-C-blue.svg">
   <img src="https://img.shields.io/badge/Platform-Termux%20%7C%20Kali-lightgrey.svg">
   <img src="https://img.shields.io/badge/License-MIT-green.svg">
@@ -39,7 +39,10 @@ gcc darkgen.c -o darkgen -lpthread -lm -lz -O3
 
 # Launch Darkgen
 ./darkgen
+```
 
+#### 🐼 Kali linux/Debian
+```
 # Update system
 sudo apt update
 
@@ -51,13 +54,16 @@ gcc darkgen.c -o darkgen -lpthread -lm -lz -O3
 
 # Launch Darkgen
 ./darkgen
+```
 
 Mode Action
+```
 1. Custom Profiler Full intelligence gathering and mutation.
 2. Intel Merge Mixes target info with 500+ common passwords.
 3. God-List Generates high-entropy "Elite" password lists.
 4. Brute-Force Recursive charset generation (custom length).
 5. Mutator Import an existing list and apply Darkgen rules.
+```
 
 👤 Author
 Shravan Acharya
