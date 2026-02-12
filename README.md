@@ -47,6 +47,9 @@ pkg install gcc make zlib -y
 #clone repo
 git clone https://github.com/techpythoncode-bit/DARKGEN_PROFILER.git
 
+#move to directory
+cd DARKGEN_PROFILER
+
 # Compile the source (The Core Engine)
 gcc drkgen.c -o drkgen -lpthread -lm -lz -O3
 
@@ -62,6 +65,9 @@ sudo apt update && sudo apt full-upgrade -y
 
 #clone repo
 git clone https://github.com/techpythoncode-bit/DARKGEN_PROFILER.git
+
+#move to directory
+cd DARKGEN_PROFILER
 
 # Install compilation dependencies
 sudo apt install build-essential zlib1g-dev -y
