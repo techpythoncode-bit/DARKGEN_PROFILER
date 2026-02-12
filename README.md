@@ -86,9 +86,9 @@ Email: techpythoncode@gmail.com
   <a href="https://www.youtube.com/channel/YOUR_CHANNEL_ID?sub_confirmation=1" 
      style="text-decoration: none; display: inline-flex; align-items: center; gap: 10px;">
     
-    <img src="https://img.youtube.com/vi/CHANNEL_ID/0.jpg" width="30" height="30" style="border-radius: 50%;"> 
+    <img src="https://www.freepik.com/free-photos-vectors/youtube-logo" width="30" height="30" style="border-radius: 50%;"> 
     
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" width="30" height="30">
+    <img src="https://www.freepik.com/free-photos-vectors/youtube-logo" width="30" height="30">
     
     <span style="font-family: sans-serif; font-weight: bold; color: #ff0000;">Subscribe</span>
   </a>
